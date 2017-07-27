@@ -1,0 +1,6 @@
+﻿  ui.c
+e:\work\17c++\project1\project1\ui.c(180): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\work\17c++\project1\project1\ui.c(420): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\work\17c++\project1\project1\ui.c(421): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project1.vcxproj -> E:\work\17c++\Project1\Debug\Project1.exe
+  Project1.vcxproj -> E:\work\17c++\Project1\Debug\Project1.pdb (Partial PDB)
